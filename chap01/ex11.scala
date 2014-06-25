@@ -1,6 +1,6 @@
 object ex11 {
   def main(args: Array[String]) = {
-    var p = Console.readInt()
+    var p = readInt
 
     var cand = 1 // next candidate for divisor
     var divs = 0 // number of divisors found so far

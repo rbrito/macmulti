@@ -1,6 +1,6 @@
 object ex10 {
   def main(args: Array[String]) = {
-    var n = Console.readInt()
+    var n = readInt
 
     var i = 0
 

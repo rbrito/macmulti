@@ -1,7 +1,7 @@
 object ex12 {
   def main(args: Array[String]) = {
-    var a = Console.readInt()
-    var b = Console.readInt()
+    var a = readInt
+    var b = readInt
     var r = b
 
     while (b != 0) {

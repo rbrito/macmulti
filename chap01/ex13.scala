@@ -1,6 +1,6 @@
 object ex13 {
   def main(args: Array[String]) = {
-    var n = Console.readInt()
+    var n = readInt
     var sum = 0
 
     for (i <- 1 until n) {

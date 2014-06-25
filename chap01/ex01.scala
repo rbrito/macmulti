@@ -3,7 +3,7 @@ object ex01 {
     var lastread = 1 // any nonzero
 
     while (lastread != 0) {
-      lastread = Console.readInt()
+      lastread = readInt
       println(lastread * lastread)
     }
   }

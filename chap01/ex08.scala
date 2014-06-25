@@ -1,6 +1,6 @@
 object ex08 {
   def main(args: Array[String]) = {
-    var n = Console.readInt()
+    var n = readInt
     var res = 1 // the partial result of n! so far
     var i = 1
 

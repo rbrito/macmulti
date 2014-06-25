@@ -1,6 +1,6 @@
 object ex14 {
   def main(args: Array[String]) = {
-    var n = Console.readInt()
+    var n = readInt
     var fpre = 1
     var fcur = 1
     var fprox = fpre + fcur

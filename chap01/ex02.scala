@@ -1,6 +1,6 @@
 object ex02 {
   def main(args: Array[String]) = {
-    var n = Console.readInt() // we avoid using n choose 2
+    var n = readInt // we avoid using n choose 2
     var i = 0
     var sum = 0
 

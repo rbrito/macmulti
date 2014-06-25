@@ -5,7 +5,7 @@ object ex05 {
     var maxday = 0
 
     while (i <= 31) {
-      var x = Console.readInt()
+      var x = readInt
       if (x > max) {
         max = x
         maxday = i
